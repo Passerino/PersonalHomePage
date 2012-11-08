@@ -1,0 +1,4 @@
+
+*.suo
+/PersonalHomePage/obj
+_ReSharper*
