@@ -4,7 +4,71 @@
 }
 
 
+<link type="text/css" href="@Links.Scripts.jqPlot.jquery_jqplot_min_css" rel="stylesheet" />
+@*
+<div class="the-container"><link rel="stylesheet" type="text/css" href="../../Scripts/jqPlot/jquery.jqplot.css" />
+    <ul>
+        <li><a id="super-skill" href="#" class="tooltip" title="C#">C# <strong>6/10</strong></a></li>
+        <li><a id="super-other-skill" href="#" class="tooltip" title="ASP.NET MVC">ASP.NET MVC <strong>5/10</strong></a></li>
+        <li><a id="super-other-skill" href="#" class="tooltip" title="JAVA">JAVA <strong>3/10</strong></a></li>
+    </ul>
+</div>*@
 
-<p>
-    
-</p>
+<div id="chart3" class="plot" style="width:500px;height:300px;margin-bottom:30px;"></div>
+
+<script type="text/javascript" src="@Links.Scripts.jqPlot.jquery_jqplot_min_js"></script> 
+<script type="text/javascript" src="@Links.Scripts.jqPlot.plugins.jqplot_dateAxisRenderer_min_js"></script>
+<script type="text/javascript" src="@Links.Scripts.jqPlot.plugins.jqplot_canvasTextRenderer_min_js"></script>
+<script type="text/javascript" src="@Links.Scripts.jqPlot.plugins.jqplot_canvasAxisTickRenderer_min_js"></script>
+<script type="text/javascript" src="@Links.Scripts.jqPlot.plugins.jqplot_categoryAxisRenderer_min_js"></script>
+<script type="text/javascript" src="@Links.Scripts.jqPlot.plugins.jqplot_barRenderer_min_js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        var line1 = [
+            ['C#', 65],
+            ['ASP.NET MVC', 48],
+            ['ASP.NET 4.0', 30],
+            ['T-SQL', 50],
+            ['UML', 30],
+            ['TDD', 40], 
+            ['BDD', 25],
+            ['CSS', 30],
+            ['jQuery', 35],
+            ['JS', 20],
+            ['jQPlot', 40],
+            
+            
+        
+        
+        ];
+  var plot3 = $.jqplot('chart3', [line1], {
+    title: 'My Skills',
+    series: [
+        { 
+        renderer: $.jqplot.BarRenderer
+        }],
+    axesDefaults: {
+        tickRenderer: $.jqplot.CanvasAxisTickRenderer,
+        tickOptions: {
+          angle: -30
+        }
+    },
+    axes: {
+      xaxis: {
+        renderer: $.jqplot.CategoryAxisRenderer,
+        tickOptions: {
+          labelPosition: 'middle'
+        }
+      },
+      yaxis: {
+        autoscale:true,
+        tickRenderer: $.jqplot.CanvasAxisTickRenderer,
+        tickOptions: {
+          labelPosition: 'start'
+        }
+      }
+    }
+  });
+});
+ </script>
+

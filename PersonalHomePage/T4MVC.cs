@@ -387,6 +387,128 @@ namespace Links {
         private const string URLPATH = "~/Scripts";
         public static string Url() { return T4MVCHelpers.ProcessVirtualPath(URLPATH); }
         public static string Url(string fileName) { return T4MVCHelpers.ProcessVirtualPath(URLPATH + "/" + fileName); }
+        [GeneratedCode("T4MVC", "2.0"), DebuggerNonUserCode]
+        public static class jqPlot {
+            private const string URLPATH = "~/Scripts/jqPlot";
+            public static string Url() { return T4MVCHelpers.ProcessVirtualPath(URLPATH); }
+            public static string Url(string fileName) { return T4MVCHelpers.ProcessVirtualPath(URLPATH + "/" + fileName); }
+            public static readonly string changes_txt = Url("changes.txt");
+            public static readonly string copyright_txt = Url("copyright.txt");
+            public static readonly string excanvas_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/excanvas.min.js") ? Url("excanvas.min.js") : Url("excanvas.js");
+                          
+            public static readonly string excanvas_min_js = Url("excanvas.min.js");
+            public static readonly string gpl_2_0_txt = Url("gpl-2.0.txt");
+            public static readonly string jqPlotCssStyling_txt = Url("jqPlotCssStyling.txt");
+            public static readonly string jqPlotOptions_txt = Url("jqPlotOptions.txt");
+            public static readonly string jquery_jqplot_css = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jquery.jqplot.min.css") ? Url("jquery.jqplot.min.css") : Url("jquery.jqplot.css");
+                 
+            public static readonly string jquery_jqplot_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jquery.jqplot.min.js") ? Url("jquery.jqplot.min.js") : Url("jquery.jqplot.js");
+                          
+            public static readonly string jquery_jqplot_min_css = Url("jquery.jqplot.min.css");
+            public static readonly string jquery_jqplot_min_js = Url("jquery.jqplot.min.js");
+            public static readonly string jquery_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jquery.min.js") ? Url("jquery.min.js") : Url("jquery.js");
+                          
+            public static readonly string jquery_min_js = Url("jquery.min.js");
+            public static readonly string MIT_LICENSE_txt = Url("MIT-LICENSE.txt");
+            public static readonly string optionsTutorial_txt = Url("optionsTutorial.txt");
+            [GeneratedCode("T4MVC", "2.0"), DebuggerNonUserCode]
+            public static class plugins {
+                private const string URLPATH = "~/Scripts/jqPlot/plugins";
+                public static string Url() { return T4MVCHelpers.ProcessVirtualPath(URLPATH); }
+                public static string Url(string fileName) { return T4MVCHelpers.ProcessVirtualPath(URLPATH + "/" + fileName); }
+                public static readonly string jqplot_barRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.barRenderer.min.js") ? Url("jqplot.barRenderer.min.js") : Url("jqplot.barRenderer.js");
+                              
+                public static readonly string jqplot_barRenderer_min_js = Url("jqplot.barRenderer.min.js");
+                public static readonly string jqplot_BezierCurveRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.BezierCurveRenderer.min.js") ? Url("jqplot.BezierCurveRenderer.min.js") : Url("jqplot.BezierCurveRenderer.js");
+                              
+                public static readonly string jqplot_BezierCurveRenderer_min_js = Url("jqplot.BezierCurveRenderer.min.js");
+                public static readonly string jqplot_blockRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.blockRenderer.min.js") ? Url("jqplot.blockRenderer.min.js") : Url("jqplot.blockRenderer.js");
+                              
+                public static readonly string jqplot_blockRenderer_min_js = Url("jqplot.blockRenderer.min.js");
+                public static readonly string jqplot_bubbleRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.bubbleRenderer.min.js") ? Url("jqplot.bubbleRenderer.min.js") : Url("jqplot.bubbleRenderer.js");
+                              
+                public static readonly string jqplot_bubbleRenderer_min_js = Url("jqplot.bubbleRenderer.min.js");
+                public static readonly string jqplot_canvasAxisLabelRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.canvasAxisLabelRenderer.min.js") ? Url("jqplot.canvasAxisLabelRenderer.min.js") : Url("jqplot.canvasAxisLabelRenderer.js");
+                              
+                public static readonly string jqplot_canvasAxisLabelRenderer_min_js = Url("jqplot.canvasAxisLabelRenderer.min.js");
+                public static readonly string jqplot_canvasAxisTickRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.canvasAxisTickRenderer.min.js") ? Url("jqplot.canvasAxisTickRenderer.min.js") : Url("jqplot.canvasAxisTickRenderer.js");
+                              
+                public static readonly string jqplot_canvasAxisTickRenderer_min_js = Url("jqplot.canvasAxisTickRenderer.min.js");
+                public static readonly string jqplot_canvasOverlay_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.canvasOverlay.min.js") ? Url("jqplot.canvasOverlay.min.js") : Url("jqplot.canvasOverlay.js");
+                              
+                public static readonly string jqplot_canvasOverlay_min_js = Url("jqplot.canvasOverlay.min.js");
+                public static readonly string jqplot_canvasTextRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.canvasTextRenderer.min.js") ? Url("jqplot.canvasTextRenderer.min.js") : Url("jqplot.canvasTextRenderer.js");
+                              
+                public static readonly string jqplot_canvasTextRenderer_min_js = Url("jqplot.canvasTextRenderer.min.js");
+                public static readonly string jqplot_categoryAxisRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.categoryAxisRenderer.min.js") ? Url("jqplot.categoryAxisRenderer.min.js") : Url("jqplot.categoryAxisRenderer.js");
+                              
+                public static readonly string jqplot_categoryAxisRenderer_min_js = Url("jqplot.categoryAxisRenderer.min.js");
+                public static readonly string jqplot_ciParser_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.ciParser.min.js") ? Url("jqplot.ciParser.min.js") : Url("jqplot.ciParser.js");
+                              
+                public static readonly string jqplot_ciParser_min_js = Url("jqplot.ciParser.min.js");
+                public static readonly string jqplot_cursor_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.cursor.min.js") ? Url("jqplot.cursor.min.js") : Url("jqplot.cursor.js");
+                              
+                public static readonly string jqplot_cursor_min_js = Url("jqplot.cursor.min.js");
+                public static readonly string jqplot_dateAxisRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.dateAxisRenderer.min.js") ? Url("jqplot.dateAxisRenderer.min.js") : Url("jqplot.dateAxisRenderer.js");
+                              
+                public static readonly string jqplot_dateAxisRenderer_min_js = Url("jqplot.dateAxisRenderer.min.js");
+                public static readonly string jqplot_donutRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.donutRenderer.min.js") ? Url("jqplot.donutRenderer.min.js") : Url("jqplot.donutRenderer.js");
+                              
+                public static readonly string jqplot_donutRenderer_min_js = Url("jqplot.donutRenderer.min.js");
+                public static readonly string jqplot_dragable_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.dragable.min.js") ? Url("jqplot.dragable.min.js") : Url("jqplot.dragable.js");
+                              
+                public static readonly string jqplot_dragable_min_js = Url("jqplot.dragable.min.js");
+                public static readonly string jqplot_enhancedLegendRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.enhancedLegendRenderer.min.js") ? Url("jqplot.enhancedLegendRenderer.min.js") : Url("jqplot.enhancedLegendRenderer.js");
+                              
+                public static readonly string jqplot_enhancedLegendRenderer_min_js = Url("jqplot.enhancedLegendRenderer.min.js");
+                public static readonly string jqplot_funnelRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.funnelRenderer.min.js") ? Url("jqplot.funnelRenderer.min.js") : Url("jqplot.funnelRenderer.js");
+                              
+                public static readonly string jqplot_funnelRenderer_min_js = Url("jqplot.funnelRenderer.min.js");
+                public static readonly string jqplot_highlighter_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.highlighter.min.js") ? Url("jqplot.highlighter.min.js") : Url("jqplot.highlighter.js");
+                              
+                public static readonly string jqplot_highlighter_min_js = Url("jqplot.highlighter.min.js");
+                public static readonly string jqplot_json2_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.min.json2.min.js") ? Url("jqplot.min.json2.min.js") : Url("jqplot.json2.js");
+                              
+                public static readonly string jqplot_json2_min_js = Url("jqplot.json2.min.js");
+                public static readonly string jqplot_logAxisRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.logAxisRenderer.min.js") ? Url("jqplot.logAxisRenderer.min.js") : Url("jqplot.logAxisRenderer.js");
+                              
+                public static readonly string jqplot_logAxisRenderer_min_js = Url("jqplot.logAxisRenderer.min.js");
+                public static readonly string jqplot_mekkoAxisRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.mekkoAxisRenderer.min.js") ? Url("jqplot.mekkoAxisRenderer.min.js") : Url("jqplot.mekkoAxisRenderer.js");
+                              
+                public static readonly string jqplot_mekkoAxisRenderer_min_js = Url("jqplot.mekkoAxisRenderer.min.js");
+                public static readonly string jqplot_mekkoRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.mekkoRenderer.min.js") ? Url("jqplot.mekkoRenderer.min.js") : Url("jqplot.mekkoRenderer.js");
+                              
+                public static readonly string jqplot_mekkoRenderer_min_js = Url("jqplot.mekkoRenderer.min.js");
+                public static readonly string jqplot_meterGaugeRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.meterGaugeRenderer.min.js") ? Url("jqplot.meterGaugeRenderer.min.js") : Url("jqplot.meterGaugeRenderer.js");
+                              
+                public static readonly string jqplot_meterGaugeRenderer_min_js = Url("jqplot.meterGaugeRenderer.min.js");
+                public static readonly string jqplot_ohlcRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.ohlcRenderer.min.js") ? Url("jqplot.ohlcRenderer.min.js") : Url("jqplot.ohlcRenderer.js");
+                              
+                public static readonly string jqplot_ohlcRenderer_min_js = Url("jqplot.ohlcRenderer.min.js");
+                public static readonly string jqplot_pieRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.pieRenderer.min.js") ? Url("jqplot.pieRenderer.min.js") : Url("jqplot.pieRenderer.js");
+                              
+                public static readonly string jqplot_pieRenderer_min_js = Url("jqplot.pieRenderer.min.js");
+                public static readonly string jqplot_pointLabels_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.pointLabels.min.js") ? Url("jqplot.pointLabels.min.js") : Url("jqplot.pointLabels.js");
+                              
+                public static readonly string jqplot_pointLabels_min_js = Url("jqplot.pointLabels.min.js");
+                public static readonly string jqplot_pyramidAxisRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.pyramidAxisRenderer.min.js") ? Url("jqplot.pyramidAxisRenderer.min.js") : Url("jqplot.pyramidAxisRenderer.js");
+                              
+                public static readonly string jqplot_pyramidAxisRenderer_min_js = Url("jqplot.pyramidAxisRenderer.min.js");
+                public static readonly string jqplot_pyramidGridRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.pyramidGridRenderer.min.js") ? Url("jqplot.pyramidGridRenderer.min.js") : Url("jqplot.pyramidGridRenderer.js");
+                              
+                public static readonly string jqplot_pyramidGridRenderer_min_js = Url("jqplot.pyramidGridRenderer.min.js");
+                public static readonly string jqplot_pyramidRenderer_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.pyramidRenderer.min.js") ? Url("jqplot.pyramidRenderer.min.js") : Url("jqplot.pyramidRenderer.js");
+                              
+                public static readonly string jqplot_pyramidRenderer_min_js = Url("jqplot.pyramidRenderer.min.js");
+                public static readonly string jqplot_trendline_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jqplot.trendline.min.js") ? Url("jqplot.trendline.min.js") : Url("jqplot.trendline.js");
+                              
+                public static readonly string jqplot_trendline_min_js = Url("jqplot.trendline.min.js");
+            }
+        
+            public static readonly string README_txt = Url("README.txt");
+            public static readonly string usage_txt = Url("usage.txt");
+        }
+    
         public static readonly string jquery_1_5_1_vsdoc_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jquery-1.5.1-vsdoc.min.js") ? Url("jquery-1.5.1-vsdoc.min.js") : Url("jquery-1.5.1-vsdoc.js");
                       
         public static readonly string jquery_1_5_1_js = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/jquery-1.5.1.min.js") ? Url("jquery-1.5.1.min.js") : Url("jquery-1.5.1.js");
