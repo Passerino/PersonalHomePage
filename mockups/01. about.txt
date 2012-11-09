@@ -1,0 +1,269 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1710" measuredH="685" mockupW="1385" mockupH="671">
+  <controls>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Image" x="826" y="14" w="216" h="208" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::SubTitle" x="829" y="238" w="-1" h="-1" measuredW="212" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Chasing%20Perfection*</text>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::HRule" x="444" y="312" w="995" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::HRule" x="801" y="286" w="276" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::SubTitle" x="1253" y="284" w="-1" h="-1" measuredW="40" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::SubTitle" x="462" y="284" w="-1" h="-1" measuredW="52" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>About</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::SubTitle" x="562" y="284" w="-1" h="-1" measuredW="44" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Skills</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::SubTitle" x="662" y="284" w="-1" h="-1" measuredW="71" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Portfolio</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::SubTitle" x="1122" y="284" w="-1" h="-1" measuredW="73" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Partners</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::SubTitle" x="1342" y="284" w="-1" h="-1" measuredW="69" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::CoverFlow" x="671" y="377" w="-1" h="-1" measuredW="493" measuredH="198" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::SubTitle" x="1297" y="352" w="-1" h="-1" measuredW="136" measuredH="33" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Latest%20blogs</text>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="396" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>75</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::SubTitle" x="457" y="394" w="-1" h="-1" measuredW="31" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>C%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="426" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>75</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::SubTitle" x="365" y="424" w="-1" h="-1" measuredW="122" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>ASP.NET%20MVC</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="456" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>75</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::SubTitle" x="445" y="454" w="-1" h="-1" measuredW="41" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>SQL</text>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="488" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>27</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::SubTitle" x="457" y="486" w="-1" h="-1" measuredW="28" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>JS</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="518" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>27</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::SubTitle" x="445" y="516" w="-1" h="-1" measuredW="42" measuredH="26" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>CSS</text>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::ProgressBar" x="499" y="548" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>75</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::SubTitle" x="393" y="546" w="-1" h="-1" measuredW="95" measuredH="26" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>RAVEN%20DB</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::SubTitle" x="435" y="352" w="-1" h="-1" measuredW="91" measuredH="33" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20skills</text>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::PieChart" x="1530" y="457" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Paragraph" x="453" y="87" w="200" h="155" measuredW="200" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>A%20paragraph%20of%20text.%0AA%20_second_%20%5Brow%5D%20of%20*text*.%0AA%20paragraph%20of%20text.%0AA%20_second_%20%5Brow%5D%20of%20*text*.%0AA%20paragraph%20of%20text.%0AA%20_second_%20%5Brow%5D%20of%20*text*.</text>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Paragraph" x="1229" y="86" w="251" h="155" measuredW="200" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>I%27m%20currently%20working%20full-time%20for%20great%20company%20%0Acalled%20*Media%20Ingeniuity*%20so%20not%20having%20much%20time%20%0Abut%20its%20_*always%20nice%20to%20have%20a%20chat%21*_</text>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::TextArea" x="325" y="344" w="311" h="251" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::TextArea" x="415" y="70" w="267" h="181" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::TextArea" x="1215" y="70" w="266" h="181" measuredW="200" measuredH="140" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::Arrow" x="482" y="251" w="10" h="34" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::Arrow" x="576" y="315" w="10" h="30" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::TextArea" x="665" y="344" w="505" h="251" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::Arrow" x="696" y="315" w="10" h="30" measuredW="150" measuredH="100" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::Arrow" x="1368" y="251" w="10" h="34" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::TextArea" x="445" y="619" w="990" h="66" measuredW="200" measuredH="140" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::Image" x="476" y="626" w="150" h="48" measuredW="77" measuredH="79" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="209" controlTypeID="com.balsamiq.mockups::Image" x="670" y="626" w="150" h="48" measuredW="77" measuredH="79" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Image" x="864" y="626" w="150" h="48" measuredW="77" measuredH="79" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::Image" x="1062" y="626" w="150" h="48" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::Image" x="1256" y="626" w="150" h="48" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chasing%20Perfection%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Arrow" x="1176" y="315" w="10" h="305" measuredW="150" measuredH="100" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::TextArea" x="1205" y="344" w="311" h="251" measuredW="200" measuredH="140" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::Paragraph" x="1231" y="387" w="245" h="196" measuredW="200" measuredH="80" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>_4.12.2012_%0A%5BHow%20to%20set%20up%20AppHarbour%5D%0A_10.11.2012_%0A%5BLatest%20changes%20in%20MVC%204%5D%0A_27.09.2012_%0A%5BBest%20way%20to%20make%20BDD%5D%0A_10.09.2012_%0A%5BHow%20to%20expertise%20in%20UX%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::Arrow" x="1270" y="315" w="10" h="30" measuredW="150" measuredH="100" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

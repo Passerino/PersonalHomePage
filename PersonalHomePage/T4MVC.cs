@@ -433,7 +433,10 @@ namespace Links {
             private const string URLPATH = "~/Content/images";
             public static string Url() { return T4MVCHelpers.ProcessVirtualPath(URLPATH); }
             public static string Url(string fileName) { return T4MVCHelpers.ProcessVirtualPath(URLPATH + "/" + fileName); }
-            public static readonly string chasing_perfection_logo_png = Url("chasing_perfection_logo.png");
+            public static readonly string chasing_perfection_logo_png = Url("chasing-perfection-logo.png");
+            public static readonly string gorrion_logo_png = Url("gorrion-logo.png");
+            public static readonly string laptop_coffe_gif = Url("laptop-coffe.gif");
+            public static readonly string quotation_mark_png = Url("quotation-mark.png");
         }
     
         public static readonly string Site_css = T4MVCHelpers.IsProduction() && T4Extensions.FileExists(URLPATH + "/Site.min.css") ? Url("Site.min.css") : Url("Site.css");
