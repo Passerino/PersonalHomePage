@@ -2,3 +2,5 @@
 *.suo
 /PersonalHomePage/obj
 _ReSharper*
+/PersonalHomePage/obj
+/PersonalHomePage/bin

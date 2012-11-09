@@ -6,16 +6,16 @@ using System.Web.Mvc;
 
 namespace PersonalHomePage.Controllers
 {
-    public class HomeController : Controller
+    public partial class HomeController : Controller
     {
-        public ActionResult Index()
+        public virtual ActionResult Index()
         {
             ViewBag.Message = "Gekon, Nie daj się!";
 
             return View();
         }
 
-        public ActionResult About()
+        public virtual ActionResult About()
         {
             return View();
         }
